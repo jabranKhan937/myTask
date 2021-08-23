@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jibranPortfolio/static/css/main.8365a23e.chunk.css",
+    "main.js": "/jibranPortfolio/static/js/main.43f11f3c.chunk.js",
+    "main.js.map": "/jibranPortfolio/static/js/main.43f11f3c.chunk.js.map",
+    "runtime-main.js": "/jibranPortfolio/static/js/runtime-main.ceeb2597.js",
+    "runtime-main.js.map": "/jibranPortfolio/static/js/runtime-main.ceeb2597.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/jibranPortfolio/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.0d3bc941.chunk.js": "/jibranPortfolio/static/js/2.0d3bc941.chunk.js",
+    "static/js/2.0d3bc941.chunk.js.map": "/jibranPortfolio/static/js/2.0d3bc941.chunk.js.map",
+    "index.html": "/jibranPortfolio/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/jibranPortfolio/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.8365a23e.chunk.css.map": "/jibranPortfolio/static/css/main.8365a23e.chunk.css.map",
+    "static/js/2.0d3bc941.chunk.js.LICENSE.txt": "/jibranPortfolio/static/js/2.0d3bc941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceeb2597.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.0d3bc941.chunk.js",
+    "static/css/main.8365a23e.chunk.css",
+    "static/js/main.43f11f3c.chunk.js"
+  ]
+}

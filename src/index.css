@@ -1,0 +1,17 @@
+.setTxtSize {
+  font-size: 30px;
+  color: rgb(7, 94, 207);
+  font-weight: bold;
+}
+.setlink {
+  text-decoration: none;
+  font-size: 20px;
+}
+.navback {
+  background-color: rgb(173, 180, 180);
+}
+.setheading {
+  font-size: larger;
+  font-weight: bold;
+  color: rgb(7, 94, 207);
+}
